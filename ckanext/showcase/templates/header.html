@@ -15,6 +15,7 @@
     (org_route, _('Organizations')),
     (group_route, _('Groups')),
     (showcase_route, _('Showcases')),
+    ('datarequests.index', _('Data Requests') + h.get_open_datarequests_badge()),
     (about_route, _('About'))
   ) }}
 {% endblock %}
