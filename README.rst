@@ -1,6 +1,9 @@
+ilk kurulumda hata alırsan supervisorctl i tekrar load et
 .. You should enable this project on travis-ci.org and coveralls.io to make
    these badges work. The necessary Travis and Coverage config files have been
    generated for you.
+
+
 
 .. image:: https://github.com/ckan/ckanext-showcase/workflows/Tests/badge.svg?branch=master
     :target: https://github.com/ckan/ckanext-showcase/actions
